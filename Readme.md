@@ -55,4 +55,5 @@ python client.py
 ### 🧑‍💻 Author
 
     Paramhans Mishra
+<img width="1378" height="464" alt="Screenshot 2025-10-17 233711" src="https://github.com/user-attachments/assets/cc2206da-cee9-4784-9743-b53b4b213adf" />
 
